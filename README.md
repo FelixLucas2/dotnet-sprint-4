@@ -1,9 +1,9 @@
-# Sistema de Gerenciamento de Pedidos — 3ª Sprint
+# Sistema de Gerenciamento de Pedidos — 4ª Sprint
 
 ## 👥 Integrantes do Grupo
 - **rm97677** — Lucas Felix VASSILIADES  
 - **rm556588** — Gabriel Yuji Suzuki
-
+- **rm555213** - Luiz Eduardo Da Silva Pinto
 ---
 
 ## 🏗️ Justificativa da Arquitetura
