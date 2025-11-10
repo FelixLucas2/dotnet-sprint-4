@@ -1,4 +1,4 @@
-# Sprint03 - API .NET
+# Sprint04 - API .NET
 
 Este projeto implementa os itens solicitados na sprint:
 
