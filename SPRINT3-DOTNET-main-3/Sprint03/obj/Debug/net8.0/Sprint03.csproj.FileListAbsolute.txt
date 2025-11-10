@@ -1,0 +1,216 @@
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.csproj.AssemblyReference.cache
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfoInputs.cache
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfo.cs
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.csproj.CoreCompileInputs.cache
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\appsettings.Development.json
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\appsettings.json
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.staticwebassets.runtime.json
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.exe
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.deps.json
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.runtimeconfig.json
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Sprint03.pdb
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint03\Sprint03\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.Sprint03.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.build.Sprint03.props
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sprint03.props
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sprint03.props
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\scopedcss\bundle\Sprint03.styles.css
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.csproj.Up2Date
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.dll
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\refint\Sprint03.dll
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.pdb
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\Sprint03.genruntimeconfig.cache
+D:\Sprint03\Sprint03\Sprint03\obj\Debug\net8.0\ref\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\refint\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.staticwebassets.runtime.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\appsettings.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Sprint03.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.Sprint03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.build.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\scopedcss\bundle\Sprint03.styles.css
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.csproj.Up2Date
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\Sprint03.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main\Sprint03\obj\Debug\net8.0\ref\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\appsettings.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.staticwebassets.runtime.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Sprint03.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.Sprint03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.build.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sprint03.props
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\scopedcss\bundle\Sprint03.styles.css
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.csproj.Up2Date
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\refint\Sprint03.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\Sprint03.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SPRINT3-DOTNET-main-3\Sprint03\obj\Debug\net8.0\ref\Sprint03.dll
